@@ -79,13 +79,13 @@ namespace Minesweeper
 
         static void Main(string[] args)
         {
-            Field field = new Field();
+            Field field = new Field(30, 30);
             
             for (int i = 0; i < field.height; i++)
             {
                 for (int j = 0; j < field.width; j++)
                 {
-                    Console.Write(field[i, j]);
+                    Console.Write((field[i, j]).ToString().PadLeft(2).PadRight(2));
                 }
                     
                 Console.WriteLine();
