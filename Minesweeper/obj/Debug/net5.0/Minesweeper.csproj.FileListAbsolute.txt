@@ -1,0 +1,15 @@
+/Users/RMG/Desktop/Minesweeper/Minesweeper/bin/Debug/net5.0/Minesweeper.deps.json
+/Users/RMG/Desktop/Minesweeper/Minesweeper/bin/Debug/net5.0/Minesweeper.runtimeconfig.json
+/Users/RMG/Desktop/Minesweeper/Minesweeper/bin/Debug/net5.0/Minesweeper.runtimeconfig.dev.json
+/Users/RMG/Desktop/Minesweeper/Minesweeper/bin/Debug/net5.0/Minesweeper.dll
+/Users/RMG/Desktop/Minesweeper/Minesweeper/bin/Debug/net5.0/ref/Minesweeper.dll
+/Users/RMG/Desktop/Minesweeper/Minesweeper/bin/Debug/net5.0/Minesweeper.pdb
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/Minesweeper.csproj.AssemblyReference.cache
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/Minesweeper.AssemblyInfoInputs.cache
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/Minesweeper.AssemblyInfo.cs
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/Minesweeper.csproj.CoreCompileInputs.cache
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/Minesweeper.dll
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/ref/Minesweeper.dll
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/Minesweeper.pdb
+/Users/RMG/Desktop/Minesweeper/Minesweeper/obj/Debug/net5.0/Minesweeper.genruntimeconfig.cache
