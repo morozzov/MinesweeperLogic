@@ -6,4 +6,4 @@
 - The field consists of bombs stored as 'X', numbers representing the number of bombs in their radius and empty cells stored as '_'.
 
 ## Example output of a generation 
-![Screenshot](https://user-images.githubusercontent.com/76492047/195972947-89da862e-f729-4c5b-8b84-f08c85d9c3a8.png)
+![Screenshot](https://user-images.githubusercontent.com/76492047/196665374-9d8aa499-f7af-4156-b367-e9a19e7a4e24.png)
